@@ -2,7 +2,11 @@ Rencana konten wpu
 - javascript
   * ES6
   * framework javascript
+    ^ vue
+    ^ reach
 - Struktur data dasar
 - php framework
+  * laravel
 - interview
 - vlog
+- python
